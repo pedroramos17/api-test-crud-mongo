@@ -6,7 +6,7 @@ requirements:
   <li>node ^18</li>
 </ul>
 
-To run the app, following the command:
+To run the app, follow the command:
 
 ```bash
 npm run start
