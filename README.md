@@ -1,12 +1,12 @@
 # A simple CRUD API
 
-##requirements:
+## Requirements:
 
 <ul>
   <li>node ^18</li>
 </ul>
 
-##Start the project
+## Start the project
 
 To install the dependencies:
 
